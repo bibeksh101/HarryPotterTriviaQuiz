@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Harry Potter Trivia Quiz</string>
+
+    <string name="question_button">question</string>
+
+    <!--TOAST: MESSAGES WHEN ITEM IS CORRECT OR INCORRECT-->
+    <string name="incorrect_option">Wrong Answer Young Wizard!</string>
+    <string name="correct_option">Correct Answer Master Wizard!</string>
+
+    <string name="set01_q01">Where does Hagrid get baby Harry from Godric\'s Hollow to Privet Drive?</string>
+    <string name="set01_q02">What color is Hagrid\'s bushy hair?</string>
+    <string name="set01_q03">What does Hagrid bring for Harry\’s birthday the night he finds him in the hut on the rock with the Dursleys?</string>
+    <string name="set01_q04">What does Hagrid cook in the fireplace inside the hut on the rock?</string>
+    <string name="set01_q05">What is Hagrid\’s job at Hogwarts?</string>
+    <string name="set01_q06">What colour is Hagrid\’s umbrella?</string>
+    <string name="set01_q07">Why was Hagrid\’s wand snapped in half?</string>
+    <string name="set01_q08">What birthday present does Hagrid buy Harry in Diagon Alley?</string>
+    <string name="set01_q09">Why is it particularly worrying that Hagrid has a pet dragon?</string>
+    <string name="set01_q10">What present does Hagrid give Harry at the end of Philosopher’s Stone?</string>
+
+    <string name="set02_q01">Who gives Harry his first ever Hogwarts school list?</string>
+    <string name="set02_q02">What kind of cauldron was on Harry\’s first year Hogwarts list?</string>
+    <string name="set02_q03">On Harry\’s first list, what were first-years expressly not allowed to bring to Hogwarts?</string>
+    <string name="set02_q04">How many sets of plain black work robes did first-year students require?</string>
+    <string name="set02_q05">Who wrote the Hogwarts set text a Beginners\’ Guide to Transfiguration?</string>
+    <string name="set02_q06">Which of the following was not part of the first-year uniform?</string>
+    <string name="set02_q07">How did the Weasleys and Harry travel to Diagon Alley to pick up school supplies in Chamber of Secrets?</string>
+    <string name="set02_q08">Which author wrote seven of the eight books on Harry\’s second-year school list?</string>
+    <string name="set02_q09">In which of Harry\’s school years did dress robes appear as an item on his school list?</string>
+    <string name="set02_q10">What was the name of the book Hagrid put on Harry and his classmates\’ school lists for Care of Magical Creatures classes?</string>
+
+    <string name="set03_q01">What is 1+1?</string>
+    <string name="set03_q02">What is 2+2?</string>
+
+<!--TODO: Add Answers to Variables-->
+<!--    -->
+
+    <string name="q03_op01">A photograph of his parents</string>
+    <string name="q03_op02">A newspaper</string>
+    <string name="q03_op03">A birthday cake</string>
+    <string name="q03_op04">A birthday card</string>
+
+
+<!--    What does Hagrid cook in the fireplace inside the hut on the rock?-->
+<!--    Bacon-->
+<!--    Jacket potatoes-->
+<!--    Sausages *-->
+<!--    Burgers-->
+
+<!--    What is Hagrid’s job at Hogwarts?-->
+<!--    Keeper of Keys and Grounds *-->
+<!--    Quidditch Coach-->
+<!--    Caretaker-->
+<!--    Charms Teacher-->
+
+<!--    What colour is Hagrid’s umbrella?-->
+<!--    Black-->
+<!--    Pink *-->
+<!--    Yellow-->
+<!--    Green-->
+
+<!--    Why was Hagrid’s wand snapped in half?-->
+<!--    He had the wrong one-->
+<!--    He stole it-->
+<!--    He was expelled *-->
+<!--    He lost a duel-->
+
+<!--    What birthday present does Hagrid buy Harry in Diagon Alley?-->
+<!--    A wand-->
+<!--    New Glasses-->
+<!--    A Cauldron-->
+<!--    An Owl *-->
+
+<!--    Why is it particularly worrying that Hagrid has a pet dragon?-->
+<!--    Its Illegal *-->
+<!--    Dumbledore doesnt allow Dragons-->
+<!--    Pets are not allowed-->
+<!--    Fang are allergic-->
+
+<!--    "What present does Hagrid give Harry at the end of Philosopher’s Stone?"-->
+<!--    An Owl-->
+<!--    Photograph of his parents *-->
+<!--    Photogrpah of Norbert-->
+<!--    Rock Cakes-->
+    <string name="button01">Button</string>
+    <string name="button02">Button</string>
+    <string name="button03">Button</string>
+    <string name="button04">Button</string>
+
+    <string name="set03">Tester Quiz</string>
+    <string name="set02">The Hogwarts School List Quiz</string>
+    <string name="set01">The First Year Hagrid Quiz</string>
+    <string name="end_page_text">Great Job Master Wizard!</string>
+
+    <string name="top_text">Thank you for playing Pottermore Quiz</string>
+    <string name="start_game">Begin your Magic Journey</string>
+    <string name="todo">TODO</string>
+    <string name="startup_text">Welcome to the Harry Potter Quiz</string>
+
+
+</resources>
