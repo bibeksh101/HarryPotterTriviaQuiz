@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--PRIMARY COLOR NEEDED FOR APP HEADINGS-->
+    <color name="colorPrimary">#f0a500</color>
+    <color name="colorPrimaryDark">#cf7500</color>
+    <color name="colorAccent">#ffcb74</color>
+
+    <!--BUTTON AND TEXT COLORS-->
+    <color name="button01_color">#e4e3e3</color>
+    <color name="button02_color">#84a9ac</color>
+    <color name="button03_color">#3b6978</color>
+    <color name="button04_color">#204051</color>
+
+    <color name="question_color">#eeecda</color>
+
+    <color name="translucent_red">#ff0000</color>
+</resources>
