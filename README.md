@@ -6,4 +6,6 @@
 
 > Question Source: Pottermore
 
+---
+
 <img src="https://github.com/bibeksh101/HarryPotterTriviaQuiz/blob/master/app/src/main/res/drawable/welcome_page.jpg" width="440" height="800" /> <img src="https://github.com/bibeksh101/HarryPotterTriviaQuiz/blob/master/app/src/main/res/drawable/quiz_page.jpg" width="440" height="800" />
